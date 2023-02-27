@@ -454,3 +454,7 @@ footer {
     color: #284854;
     font-size: 13px;
 }
+
+.footer_links .why_indeVets_{
+    padding-left: 0;
+}

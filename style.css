@@ -306,36 +306,36 @@ section {
     margin-left: 180px;
 }
 
-.section__container {
+.section_container {
     padding-top: 90px;
     padding-left: 600px;
 }
 
-.section__container__headline {
+.section_container_h3 {
     font-size: 55px;
     color: #FFFFFF;
     font-weight: 400;
     width: 650px;
 }
 
-.section__container__become-indevet {
+.section_container_div_1 {
     width: 240px;
     display: inline-block;
     margin-top: 60px;
 }
 
-.section__container__become-indevet a {
+.section_container_div_1 a {
     font-family: 'Nutino';
     color: #FFFFFF;
 }
 
-.section__container__become-partner {
+.section_container_div_2{
     width: 240px;
     display: inline-block;
     margin-left: 130px;
 }
 
-.section__container__become-partner a {
+.section_container_div_2 a {
     font-family: 'Nutino';
     color: #FFFFFF;
 }
@@ -346,13 +346,13 @@ footer {
     padding: 120px 200px 0px 150px;
 }
 
-.footer__veterinars {
+.footer_veterinars_h3 {
     display: flex;
     flex-direction: column;
     max-height: 210px;
 }
 
-.footer__veterinars h3 {
+.footer_veterinars_h3 h3 {
     font-family: 'Nutino';
     font-weight: 400;
     font-size: 20px;
@@ -360,7 +360,7 @@ footer {
     padding-bottom: 25px;
 }
 
-.footer__veterinars a {
+.footer_veterinars_h3 a {
     font-family: 'Nutino';
     font-weight: 400;
     font-size: 14px;
@@ -368,14 +368,14 @@ footer {
     padding-bottom: 20px;
 }
 
-.footer__hospitals {
+.footer_hospitals_h3 {
     display: flex;
     flex-direction: column;
     margin-left: 150px;
     max-height: 210px;
 }
 
-.footer__hospitals h3 {
+.footer_hospitals_h3 h3 {
     font-family: 'Nutino';
     font-weight: 400;
     font-size: 20px;
@@ -383,7 +383,7 @@ footer {
     padding-bottom: 25px;
 }
 
-.footer__hospitals a {
+.footer_hospitals_h3 a {
     font-family: 'Nutino';
     font-weight: 400;
     font-size: 14px;
@@ -391,14 +391,14 @@ footer {
     padding-bottom: 20px;
 }
 
-.footer__find-us {
+.find_us {
     display: flex;
     flex-direction: column;
     margin-left: 100px;
     max-height: 210px;
 }
 
-.footer__find-us h3 {
+.find_us h3 {
     font-family: 'Nutino';
     font-weight: 400;
     font-size: 20px;
@@ -406,18 +406,18 @@ footer {
     padding-bottom: 25px;
 }
 
-.footer__find-us__img-wrapper {
+.img_7 {
     margin-left: 150px;
     display: flex;
     max-height: 210px;
 }
 
-.footer__find-us__img {
+.img_7 img {
     width: 230px;
     height: 210px;
 }
 
-.footer__find-us a {
+.find_us a {
     max-width: 190px;
     color: #60C1BD;
     font-size: 14px;
@@ -426,17 +426,17 @@ footer {
     padding-bottom: 20px;
 }
 
-.footer__wrapper {
+.footer_wrapper {
     display: flex;
     width: 100%;
 }
 
-.footer__links {
+.footer_links {
     display: flex;
     margin-top: 70px;
 }
 
-.footer__links a {
+.footer_links a {
     color: #60C1BD;
     font-family: 'Nutino';
     font-weight: 400;
@@ -444,11 +444,11 @@ footer {
     padding-left: 40px;
 }
 
-.footer__authors {
+.footer_authors {
     margin-top: 40px;
 }
 
-.footer__authors p {
+.footer_authors p {
     font-family: 'Nutino';
     font-weight: 400;
     color: #284854;
